@@ -1,0 +1,20 @@
+.absoluto{
+    display: block;
+    padding: 12px 8px;
+    color: #fff;
+    position: fixed;
+    top: 870px;
+    left: 1800px;
+    font-size: 25px;
+}
+
+#texto:hover{
+    background: #666;
+    padding: 15px;
+    margin: 15px;
+    transition: 15ms;
+    -webkit-transition: 15ms;
+    -moz-transition: 15ms;
+    -ms-transition: 15ms;
+    -o-transition: 15ms;
+}
