@@ -1,3 +1,3 @@
 # Joker
-Um site desenvolvido com BootStrap 4
+alterando um site desenvolvido com BootStrap 4
 https://gabrieldias025.github.io/Joker/
