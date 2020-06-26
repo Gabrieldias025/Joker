@@ -18,7 +18,7 @@ Site desenvolvido para treinar minhas habilidades
 
 Feito por Gabriel Dias
 
-- [Linkedin](https://www.linkedin.com/in/gabriel-dias-990472190/)
+- [Linkedin](https://www.linkedin.com/in/gabrieldias-)
 
 - [Instagram](https://www.instagram.com/dias_developer/)
 
