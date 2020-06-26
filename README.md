@@ -1,10 +1,10 @@
 # Joker
 
 <h1 align="center">
-    <img alt="Joker" title="#Joker" src="img/Index.png" width="250px" />
+    <img alt="Joker" title="#Joker" src="img/Index.png" width="650px" />
 </h1>
 
-[Site](https://gabrieldias025.github.io/Joker)
+[Visite o site](https://gabrieldias025.github.io/Joker)
 
 # Objetivo
 
