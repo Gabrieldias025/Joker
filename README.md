@@ -6,18 +6,22 @@
 
 [Visite o site](https://gabrieldias025.github.io/Joker)
 
-# Objetivo
+## Objetivo
 
 Site desenvolvido para treinar minhas habilidades
 
-# Tecnologias
+## Tecnologias
 
 - [Bootstrap4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 
-- [Inspirado](https://www.instagram.com/p/B4VJlL5A15d/?igshid=nhh4uuh3hc31)
-
-## Contato
+# Contato
 
 Feito por Gabriel Dias
-[Linkedin](https://www.linkedin.com/in/gabriel-dias-990472190/)
-[Instagram](https://www.instagram.com/dias_developer/)
+
+- [Linkedin](https://www.linkedin.com/in/gabriel-dias-990472190/)
+
+- [Instagram](https://www.instagram.com/dias_developer/)
+
+### Inspirado
+
+- [Inspirado](https://www.instagram.com/p/B4VJlL5A15d/?igshid=nhh4uuh3hc31)
