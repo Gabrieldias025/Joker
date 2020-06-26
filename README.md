@@ -14,6 +14,10 @@ Site desenvolvido para treinar minhas habilidades
 
 - [Bootstrap4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 
+- [Inspirado](https://www.instagram.com/p/B4VJlL5A15d/?igshid=nhh4uuh3hc31)
+
 ## Contato
 
-Feito por Gabriel Dias [Entrar em contato!](https://www.linkedin.com/in/gabriel-dias-990472190/)
+Feito por Gabriel Dias
+[Linkedin](https://www.linkedin.com/in/gabriel-dias-990472190/)
+[Instagram](https://www.instagram.com/dias_developer/)
